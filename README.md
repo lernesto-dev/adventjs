@@ -6,5 +6,5 @@ Soluciones a retos de programación del evento [AdventJs](https://adventjs.dev/e
 
 ## Retos
 
-[2024]()
+[2024](https://github.com/lernesto-dev/adventjs/tree/main/2024)
 
